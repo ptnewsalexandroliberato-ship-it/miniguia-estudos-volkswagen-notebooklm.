@@ -1,3 +1,5 @@
+"Este estudo analisa a Volkswagen sob a ótica de evolução de mercado e viabilidade financeira de produtos populares."
+
 🚗 Volkswagen: Da Gênese Oculta aos 70 Anos de Brasil
 Projeto Prático: Aprendizagem Ativa com NotebookLM (Desafio DIO)
 Este repositório documenta meu estudo sobre a trajetória da Volkswagen, utilizando a IA NotebookLM para cruzar informações de fontes oficiais com documentários históricos sobre as origens da marca e sua evolução tecnológica.
