@@ -63,4 +63,4 @@ Prompts Reutilizáveis
 
 Assista ao vídeo do projeto no YouTube: [CLIQUE AQUI PARA VER O VÍDEO](https://www.youtube.com/watch?v=-mOoWOqvuIc)
 
-[Clique aqui para baixar o guia em PDF](./VW_Blueprint_to_Greenprint.pdf)
+[Clique aqui para baixar o guia em PDF](VW_Blueprint_to_Greenprint.pdf)
