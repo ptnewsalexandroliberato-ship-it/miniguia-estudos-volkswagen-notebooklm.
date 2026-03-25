@@ -62,3 +62,5 @@ Prompts Reutilizáveis
 "Quais são os 5 modelos mais icônicos da Volkswagen produzidos exclusivamente para o mercado brasileiro?"
 
 Assista ao vídeo do projeto no YouTube: [CLIQUE AQUI PARA VER O VÍDEO](https://www.youtube.com/watch?v=-mOoWOqvuIc)
+
+[Clique aqui para baixar o guia em PDF](./VW_Blueprint_to_Greenprint.pdf)
